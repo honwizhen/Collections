@@ -1,7 +1,3 @@
-Certainly! Here's a README for your "Collections" repository:
-
----
-
 # Collections - Showcase of Personal Software Projects
 
 Welcome to the "Collections" repository! This diverse compilation of small personal projects has been curated to showcase the skills and capabilities of a software student. Whether you're a recruiter, potential employer, or just a curious visitor, this repository offers a glimpse into various programming languages and project types.
